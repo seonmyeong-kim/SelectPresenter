@@ -1,8 +1,8 @@
 /**
- * Sample React Native App
+ * SelectPresenter
  * https://github.com/facebook/react-native
  *
- * @format
+ * @author: Seonmeyong Kim <gumanhae@gmail.com>
  * @flow
  */
 
