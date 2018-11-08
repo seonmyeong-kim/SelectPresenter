@@ -69,6 +69,3 @@ const styles = StyleSheet.create({
 });
 
 ```
-
-### Result
-![iOS](screenshot.png)
